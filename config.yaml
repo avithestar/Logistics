@@ -1,7 +1,7 @@
 version: 1
 
 auth:
-  token_url: "https://login.microsoftonline.com/8d354a2c-965a-4c6f-af22-d707a39c0492/oauth2/v2.0/token"
+  token_url: "https://login.microsoftonline.com/xxxxx-965a-4c6f-af22-d707a39c0492/oauth2/v2.0/token"
   client_id: "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx"
   client_secret: "yyyy~yyyyyy-~yyyy"
   scope: "api://zzzzz-yyy-yyyy-yyyy-yyyyyy/.default"
